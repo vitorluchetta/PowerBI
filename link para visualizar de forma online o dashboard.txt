@@ -1,0 +1,3 @@
+É possivel acessar o dashboard publicado com o link abaixo.
+
+https://app.powerbi.com/view?r=eyJrIjoiZTFiMDgyMmQtMDVmYy00NjEwLWE4MjMtODE4Y2ZiNzk0M2RhIiwidCI6ImQwMzhhNmZkLTM2YjEtNDdkNi04OGU2LTJkMDkzZGFjYTM1OSJ9
